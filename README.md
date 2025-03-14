@@ -38,9 +38,3 @@ This project aims to analyze customer complaints across various channels, catego
 
 ## Final Conclusion:
 The Customer Complaints Dashboard provides an in-depth analysis of customer grievances, helping businesses streamline issue resolution and enhance user satisfaction. By addressing key concerns, improving response times, and refining service channels, businesses can improve retention rates and customer loyalty.
-
-By leveraging these findings, Spectra Tiles can:
-- Optimize content selection based on audience preferences.
-- Expand in high-performing genres and regions.
-- Improve strategic planning for content releases in 2024 & 2025.
-- Drive higher user engagement and subscription growth.

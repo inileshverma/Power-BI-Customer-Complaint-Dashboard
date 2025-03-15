@@ -3,7 +3,7 @@
 This project aims to analyze customer complaints across various channels, categorize them by type and priority, and assess customer satisfaction levels. By identifying trends in complaints and resolution rates, businesses can enhance their customer support services, improve product quality, and streamline issue resolution processes.
 
 ## Dataset used
-- <a href="https://github.com/inileshverma/Power-BI-Customer-Complaint-Dashboard/blob/main/Customer%20Complaint%20Dashboard.pbix">Dataset</a>
+- <a href="https://github.com/inileshverma/Power-BI-Customer-Complaint-Dashboard/blob/main/6.1-CustomerSupportTickets.csv">Dataset</a>
 
 ## Key Performance Indicators (KPIs)
 - Total Complaints – 8,469 complaints recorded.
